@@ -4,7 +4,7 @@ I chose the approach of working only with the text db (more fun).
 This application has been stripped down to use only ActionController.
 
 The backups entries are available in db/backups.txt.
-The logs are available in public/logs.txt or from browser at http://localhost:3000/logs.txt
+The logs are available in public/logs.txt or from browser at http://localhost:3000/logs.txt (public for the sake of easy browsing via web) 
 
 Gems are of course managed by bundler.
 In order to run you simply use `bundle exec rails s`
